@@ -109,7 +109,7 @@ Now we&#39;ll add a final intent to allow users to get more information on the l
 
 33. As we haven&#39;t defined a new slot type for this intent there isn&#39;t a slot entry yet under on the intent detail panel.  Enter the following values into the empty slot line:
   - Name: LoanType
-  - Slot Type: LoanType (select from the drop-down list)
+  - Slot Type: LoanType (select from the drop-down list, you might refresh the page so that the slot type becomes available in the drop-down list)
   - Prompt: Which loan type?
 34. Click the blue &quot;+&quot; button to the right of the Slots information to add this slot to the intent
 
